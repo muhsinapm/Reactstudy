@@ -1,0 +1,9 @@
+#head{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px dashed #000;
+    border-radius: 50%;
+    text-align: center;
+    margin: auto;
+}
